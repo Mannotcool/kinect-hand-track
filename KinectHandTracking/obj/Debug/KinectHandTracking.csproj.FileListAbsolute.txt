@@ -1,0 +1,14 @@
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\bin\Debug\KinectHandTracking.exe.config
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\bin\Debug\KinectHandTracking.exe
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\bin\Debug\KinectHandTracking.pdb
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\bin\Debug\Microsoft.Speech.dll
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\obj\Debug\KinectHandTracking.csproj.AssemblyReference.cache
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\obj\Debug\KinectHandTracking.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\obj\Debug\KinectHandTracking.Form1.resources
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\obj\Debug\KinectHandTracking.Properties.Resources.resources
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\obj\Debug\KinectHandTracking.csproj.GenerateResource.cache
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\obj\Debug\KinectHandTracking.csproj.CoreCompileInputs.cache
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\obj\Debug\KinectHandTracking.csproj.CopyComplete
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\obj\Debug\KinectHandTracking.exe
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\obj\Debug\KinectHandTracking.pdb
+C:\Users\nicks\OneDrive\Desktop\Coding\kinectstuff\kinect-hand-track\KinectHandTracking\obj\Debug\KinectHandTracking.Listening.resources
